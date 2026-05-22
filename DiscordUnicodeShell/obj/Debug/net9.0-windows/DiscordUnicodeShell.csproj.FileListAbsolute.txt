@@ -1,0 +1,14 @@
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\bin\Debug\net9.0-windows\DiscordUnicodeShell.exe
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\bin\Debug\net9.0-windows\DiscordUnicodeShell.deps.json
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\bin\Debug\net9.0-windows\DiscordUnicodeShell.runtimeconfig.json
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\bin\Debug\net9.0-windows\DiscordUnicodeShell.dll
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\bin\Debug\net9.0-windows\DiscordUnicodeShell.pdb
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.AssemblyInfoInputs.cache
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.AssemblyInfo.cs
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.csproj.CoreCompileInputs.cache
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.dll
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\refint\DiscordUnicodeShell.dll
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.pdb
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\DiscordUnicodeShell.genruntimeconfig.cache
+C:\Users\oguzf\Music\discordquestlog\discordunicode\csharp-shell\DiscordUnicodeShell\obj\Debug\net9.0-windows\ref\DiscordUnicodeShell.dll
